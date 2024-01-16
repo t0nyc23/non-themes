@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=non-gtk-darker
+Comment=Gtk+ theme based on Orchis
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=non-gtk-darker
+MetacityTheme=non-gtk-darker
+IconTheme=Tela-circle-dark
+CursorTheme=Vimix-dark
+ButtonLayout=close,minimize,maximize:menu
